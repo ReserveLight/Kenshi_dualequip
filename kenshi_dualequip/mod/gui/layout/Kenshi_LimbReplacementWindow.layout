@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Window" skin="Kenshi_WindowCX" position_real="0 0 0.101042 0.408333" layer="Window" name="Root">
+        <Property key="Caption" value="LIMBS"/>
+        <Widget type="Widget" skin="PanelEmpty" position_real="0 0 0.984043 1" align="Stretch">
+            <Widget type="Widget" skin="Kenshi_InventorySlotSkin" position_real="0.67027 0.050505 0.27027 0.378788" name="left_arm_replace"/>
+            <Widget type="Widget" skin="Kenshi_InventorySlotSkin" position_real="0.0648649 0.512626 0.27027 0.441919" name="right_leg_replace"/>
+            <Widget type="Widget" skin="Kenshi_InventorySlotSkin" position_real="0.67027 0.512626 0.27027 0.441919" name="left_leg_replace"/>
+            <Widget type="TextBox" skin="Kenshi_TextboxPaintedText" position_real="0.0540541 0.00252525 0.891892 0.0353535" name="lbLeftArm">
+                <Property key="Caption" value="ARMS"/>
+                <Property key="TextAlign" value="Center"/>
+                <Property key="TextColour" value="0.327485 0.284279 0.23556"/>
+            </Widget>
+            <Widget type="TextBox" skin="Kenshi_TextboxPaintedText" position_real="0.0648649 0.949495 0.864865 0.0378788" name="lbLeftLeg">
+                <Property key="Caption" value="LEGS"/>
+                <Property key="TextColour" value="0.327485 0.284279 0.23556"/>
+                <Property key="TextAlign" value="Center"/>
+            </Widget>
+            <Widget type="Widget" skin="Kenshi_InventorySlotSkin" position_real="0.0540541 0.050505 0.27027 0.378788" name="right_arm_replace"/>
+            <Widget type="ImageBox" skin="ImageBox" position_real="0.162162 0.136364 0.691892 0.646465">
+                <Property key="ImageTexture" value="figure.png"/>
+                <Property key="Depth" value="1"/>
+            </Widget>
+            <Widget type="Widget" skin="Kenshi_InventorySlotSkin" position_real="0 0 0 0" name="de_slot_head">
+                <Property key="Visible" value="false"/>
+            </Widget>
+            <Widget type="Widget" skin="Kenshi_InventorySlotSkin" position_real="0 0 0 0" name="de_slot_armour">
+                <Property key="Visible" value="false"/>
+            </Widget>
+            <Widget type="Widget" skin="Kenshi_InventorySlotSkin" position_real="0 0 0 0" name="de_slot_legs">
+                <Property key="Visible" value="false"/>
+            </Widget>
+            <Widget type="Widget" skin="Kenshi_InventorySlotSkin" position_real="0 0 0 0" name="de_slot_shirt">
+                <Property key="Visible" value="false"/>
+            </Widget>
+            <Widget type="Widget" skin="Kenshi_InventorySlotSkin" position_real="0 0 0 0" name="de_slot_boots">
+                <Property key="Visible" value="false"/>
+            </Widget>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

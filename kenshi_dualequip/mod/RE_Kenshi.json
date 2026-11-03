@@ -1,0 +1,6 @@
+{
+    "Plugins": [
+        "Plugins/DualEquipSlots2.dll",
+        "Plugins/DualEquip2.dll"
+    ]
+}

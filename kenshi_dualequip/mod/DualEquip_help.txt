@@ -1,0 +1,92 @@
+[zh_CN]
+按钮【1】：控制该额外槽中装备的数值是否生效（亮 = 无数值，暗 = 有数值）。
+按钮【2】：开启隐藏时，对应的原版槽装备是否保留外观（亮 = 不隐藏，暗 = 隐藏）。
+按钮【X】：隐藏 / 显示背包外观。
+按钮【I】：与 Insert 热键相同，隐藏 / 显示选中角色的装备外观（亮 = 已隐藏）。
+按钮【R】：与右 Shift 热键相同，隐藏 / 显示所有角色的装备外观。
+按钮【A】：把当前角色【1】【2】的设置复制到所有选中角色。
+再次点击【？】可关闭本提示。
+遇到 Bug 欢迎在创意工坊评论区反馈。
+如果这个 Mod 对你有帮助，点个赞吧，谢谢！
+
+[en_GB]
+[1] Extra-slot stats for this slot (bright = no stats, dim = stats apply).
+[2] While hiding, keep the matching vanilla-slot item visible (bright = keep visible, dim = hide it).
+[X] Hide / show the backpack appearance.
+[I] Same as the Insert hotkey: hide / show the selected character's equipment (bright = hidden).
+[R] Same as the Right Shift hotkey: hide / show every character's equipment.
+[A] Copy this character's [1]/[2] settings to all selected characters.
+Click [?] again to close this help.
+Found a bug? Please report it in the Workshop comments.
+If this mod helps, a thumbs-up would be appreciated. Thank you!
+Sorry, languages not supported by the game can only be shown in English.
+
+[de_DE]
+[1] Werte des Gegenstands im Extra-Slot (hell = keine Werte, dunkel = Werte aktiv).
+[2] Beim Verstecken bleibt der Gegenstand im passenden Vanilla-Slot sichtbar (hell = sichtbar, dunkel = versteckt).
+[X] Rucksack-Aussehen ein-/ausblenden.
+[I] Wie die Insert-Taste: Aussehen des ausgewählten Charakters ein-/ausblenden (hell = versteckt).
+[R] Wie die rechte Shift-Taste: Aussehen aller Charaktere ein-/ausblenden.
+[A] Einstellungen [1]/[2] dieses Charakters auf alle ausgewählten Charaktere kopieren.
+Erneut [?] klicken, um diese Hilfe zu schließen.
+Fehler bitte in den Workshop-Kommentaren melden. Wenn dir der Mod hilft, hinterlasse bitte ein "Gefällt mir". Danke!
+
+[es_ES]
+[1] Estadísticas del objeto en la ranura extra (claro = sin estadísticas, oscuro = estadísticas activas).
+[2] Al ocultar, el objeto de la ranura original sigue visible (claro = visible, oscuro = oculto).
+[X] Mostrar/ocultar el aspecto de la mochila.
+[I] Igual que Insert: mostrar/ocultar el equipo del personaje seleccionado (claro = oculto).
+[R] Igual que Shift derecho: mostrar/ocultar el equipo de todos los personajes.
+[A] Copiar los ajustes [1]/[2] de este personaje a todos los seleccionados.
+Pulsa [?] otra vez para cerrar esta ayuda.
+Informa de fallos en los comentarios del Workshop. Si te ayuda, deja un "me gusta". ¡Gracias!
+
+[fr_FR]
+[1] Statistiques de l'objet dans l'emplacement bonus (clair = aucune statistique, sombre = statistiques actives).
+[2] En mode masqué, l'objet de l'emplacement d'origine reste visible (clair = visible, sombre = masqué).
+[X] Afficher/masquer l'apparence du sac à dos.
+[I] Comme la touche Insert : afficher/masquer l'équipement du personnage sélectionné (clair = masqué).
+[R] Comme le Shift droit : afficher/masquer l'équipement de tous les personnages.
+[A] Copier les réglages [1]/[2] de ce personnage sur tous les personnages sélectionnés.
+Cliquez à nouveau sur [?] pour fermer cette aide.
+Signalez les bugs dans les commentaires du Workshop. Si ce mod vous aide, laissez un "j'aime". Merci !
+
+[ja_JP]
+[1] 追加スロットの装備の数値（明るい＝数値なし、暗い＝数値あり）。
+[2] 非表示時、対応する通常スロットの装備を表示したままにする（明るい＝表示、暗い＝非表示）。
+[X] バックパックの外見を表示/非表示。
+[I] Insertキーと同じ：選択中のキャラの装備外見を表示/非表示（明るい＝非表示）。
+[R] 右Shiftキーと同じ：全キャラの装備外見を表示/非表示。
+[A] このキャラの[1]/[2]設定を選択中の全キャラにコピー。
+もう一度[?]を押すとこのヘルプを閉じます。
+バグはWorkshopのコメントへ。役に立ったら高評価をお願いします。ありがとう！
+
+[ko_KR]
+[1] 추가 슬롯 장비의 수치 (밝음 = 수치 없음, 어두움 = 수치 적용).
+[2] 숨길 때 원래 슬롯의 장비를 계속 표시 (밝음 = 표시, 어두움 = 숨김).
+[X] 배낭 외형 표시/숨기기.
+[I] Insert 키와 동일: 선택한 캐릭터의 장비 외형 표시/숨기기 (밝음 = 숨김).
+[R] 오른쪽 Shift 키와 동일: 모든 캐릭터의 장비 외형 표시/숨기기.
+[A] 이 캐릭터의 [1]/[2] 설정을 선택한 모든 캐릭터에 복사.
+[?]를 다시 누르면 이 도움말이 닫힙니다.
+버그는 Workshop 댓글에 알려주세요. 도움이 되었다면 추천 부탁드립니다. 감사합니다!
+
+[pt_BR]
+[1] Atributos do item no slot extra (claro = sem atributos, escuro = atributos ativos).
+[2] Ao ocultar, o item do slot original continua visível (claro = visível, escuro = oculto).
+[X] Mostrar/ocultar a aparência da mochila.
+[I] Igual à tecla Insert: mostrar/ocultar o equipamento do personagem selecionado (claro = oculto).
+[R] Igual ao Shift direito: mostrar/ocultar o equipamento de todos os personagens.
+[A] Copiar as configurações [1]/[2] deste personagem para todos os selecionados.
+Clique em [?] novamente para fechar esta ajuda.
+Reporte bugs nos comentários do Workshop. Se este mod ajudar, deixe um "joinha". Obrigado!
+
+[ru_RU]
+[1] Характеристики предмета в доп. слоте (светло = без характеристик, темно = характеристики включены).
+[2] При скрытии предмет в обычном слоте остаётся видимым (светло = видим, темно = скрыт).
+[X] Показать/скрыть внешний вид рюкзака.
+[I] Как Insert: показать/скрыть снаряжение выбранного персонажа (светло = скрыто).
+[R] Как правый Shift: показать/скрыть снаряжение всех персонажей.
+[A] Скопировать настройки [1]/[2] этого персонажа на всех выбранных.
+Нажмите [?] ещё раз, чтобы закрыть справку.
+Ошибки — в комментариях Workshop. Если мод помогает, поставьте лайк. Спасибо!
