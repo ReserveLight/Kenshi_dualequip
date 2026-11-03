@@ -51,8 +51,8 @@
 ### 说明
 
 - **导入存档（Import Game）不会保留额外槽里的装备。**  
-  这是 Kenshi 导入机制的限制：它只搬运原版/背包数据。导入前请把额外装备放回普通背包；普通**读档（Load）**不受影响。
-- **NPC 额外槽会被清理并锁定**：读档后 NPC 额外槽里的装备会移回对应原版槽（空）或普通库存，然后区格禁用；NPC 被招募进队伍后会自动恢复可用。详见 [`docs/known-issues.md`](docs/known-issues.md)。
+  这是 Kenshi 导入机制的限制：它只搬运原版/背包数据。导入前请把额外装备放回普通背包；载入存档不受影响。
+- **NPC 额外槽会被清理并锁定**：读档后 NPC 额外槽里的装备会移回对应原版槽（空）或普通库存，然后区格禁用；NPC 被招募进队伍后会自动恢复可用。
 - **Dark UI**：当前顺序（Dark UI 在前、本 mod 在后）安全；如果本 mod 排在 Dark UI 之前，Dark UI 的库存布局会覆盖本 mod 的 `DualEquipWindow` / `de_slot_*`，打开装备面板会崩溃。当前顺序下 Dark UI 的**库存窗口布局**会被本 mod 覆盖（其他皮肤/菜单仍生效）。
 - **设置 sidecar 不随 `.save` 移动**：只把存档拷到另一台电脑不会带走每角色设置。
 
@@ -148,7 +148,7 @@ By default, extra-slot items are **cosmetic only** — they show their appearanc
 
 - **Kenshi's Import Game does not carry items stored in mod-added extra slots.**  
   This is an import limitation: only vanilla/backpack data is carried. Put extra-slot items back into a normal backpack before importing. Normal **Load** is unaffected.
-- **NPC extra slots are cleaned and locked**: after loading, any items in NPC extra slots are moved to the matching vanilla slot (if empty) or to normal inventory, and the sections are disabled. If the NPC joins the player's squad, the sections are re-enabled automatically. See [`docs/known-issues.md`](docs/known-issues.md).
+- **NPC extra slots are cleaned and locked**: after loading, any items in NPC extra slots are moved to the matching vanilla slot (if empty) or to normal inventory, and the sections are disabled. If the NPC joins the player's squad, the sections are re-enabled automatically.
 - **Dark UI**: the current order (Dark UI first, this mod later) is safe. If this mod is placed **before** Dark UI, Dark UI's inventory layout overrides `DualEquipWindow` / `de_slot_*` and opening the equipment panel can crash. In the safe order, this mod overrides Dark UI's **inventory layout** (other Dark UI skins/menus still apply).
 - **The sidecar does not travel with the `.save`**: copying only the save to another PC does not carry per-character settings.
 
