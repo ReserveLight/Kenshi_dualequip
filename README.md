@@ -81,10 +81,8 @@ src/                 两个 DLL 的源码
 mod/                 可直接放入 Kenshi/mods/Hide_Show_DualEquip 的文件
 build_all.example.bat 构建模板
 tools/               生成 MyGUI import lib 的脚本
-docs/                截图、已知问题记录
 BUILDING.md          构建说明
 TECHNICAL.md         实现 / hook / 数据结构说明
-LICENSE              MIT（原创代码；第三方组件不在仓库内）
 ```
 
 ### 常见问题
@@ -179,10 +177,8 @@ src/                 Source for the two DLLs
 mod/                 Ready-to-install mod files
 build_all.example.bat Build template
 tools/               MyGUI import-lib generator
-docs/                Screenshot and known-issues notes
 BUILDING.md          Build instructions
 TECHNICAL.md         Hooks / data structures / implementation notes
-LICENSE              MIT (original code; third-party components are not included)
 ```
 
 ### FAQ
